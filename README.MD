@@ -1,4 +1,4 @@
-![](screenshot-1.png)
+
 === WP DB Clean Lite ===
 Contributors: filteraction
 Donate link: 
@@ -63,7 +63,8 @@ Related Links:
 == Screenshots ==
 
 1. Admin page screenshot 
-![screenshot-1](https://user-images.githubusercontent.com/40341700/90978265-33687800-e56a-11ea-89db-56f69a0b9e23.png)
+
+![](screenshot-1.png)
 
 
 == Frequently Asked Questions ==
