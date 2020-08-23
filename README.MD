@@ -3,11 +3,17 @@
 
 
 Contributors: filteraction
+
 Donate link: 
+
 Tags: wp db clean, wp cleanup,clean,cleaner,cleanup,database,mysql,comments,posts,post revisions,delete revision,wp cleaner,optimize,optimize database,revision,draft,auto draft,moderated,spam,trash,postmeta,commentmeta,relationships,transient feed,phpMyAdmin,orphan
+
 License: GPLv2
+
 Requires at least: 2.7
+
 Tested up to: 5.5
+
 Stable tag: 1.2.3
 
 DB Clean Lite can help us to clean up the wordpress database by removing "revision" "draft" "auto draft" and so on.
@@ -16,9 +22,13 @@ DB Clean Lite can help us to clean up the wordpress database by removing "revisi
 == Description ==
 
 DB Clean Lite can help us to clean up the wordpress database by removing "revision" "draft" "auto draft" "moderated comments" "spam comments" "trash comments" "orphan postmeta" "orphan commentmeta" "orphan relationships" "dashboard transient feed".
+
 It allows you to optimize your WordPress database without phpMyAdmin.
+
 It adds a settings page to "Dashboard"->"Settings"->"DB Clean" where you can clean up the wordpress database.
+
 It allows you to remove the redundant data within few clicks.
+
 It is a effective tool to keep your database clean and surely save a lot of space of your MySQL Database.
 
 = Usage =
