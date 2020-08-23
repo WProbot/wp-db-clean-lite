@@ -26,7 +26,7 @@ It is a effective tool to keep your database clean and surely save a lot of spac
 1. Download and extract `wp-db-clean-lite.zip` to `wp-content/plugins/`
 2. Activate the plugin through the 'Plugins' menu in WordPress.
 3. "Dashboard"->"Settings"->"WP Clean Up"
-4. For more information of this plugin, please visit: [Plugin Homepage](https://github.com/filteraction/db-clean-lite/ "DB Clean").
+4. For more information of this plugin, please visit: [Plugin Homepage](https://github.com/filteraction/wp-db-clean-lite/ "DB Clean").
 
 Related Links:
 
@@ -36,7 +36,7 @@ Related Links:
 1. Download and extract `wp-db-clean-lite.zip` to `wp-content/plugins/`
 2. Activate the plugin through the 'Plugins' menu in WordPress.
 3. "Dashboard"->"Settings"->"DB Clean"
-4. For more information of this plugin, please visit: [Plugin Homepage](https://github.com/filteraction/db-clean-lite/ "DB Clean").
+4. For more information of this plugin, please visit: [Plugin Homepage](https://github.com/filteraction/wp-db-clean-lite/ "DB Clean").
 
 
 == Changelog ==
@@ -71,9 +71,9 @@ Related Links:
 
 == Frequently Asked Questions ==
 
-You can sumbit it in https://github.com/filteraction/db-clean-lite/
+You can sumbit it in https://github.com/filteraction/wp-db-clean-lite/
 
 
 == Upgrade Notice ==
 
-Please visit https://github.com/filteraction/db-clean-lite/
+Please visit https://github.com/filteraction/wp-db-clean-lite/
